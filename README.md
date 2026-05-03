@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Khalil Basil Kwaik 
+### 🛡️ 1st Year Cyber Security Engineering Student
 
-<!--
-**khalilbasil35-netizen/khalilbasil35-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering student at **UCAS & GTC**, rebuilding my technical foundations with a focus on clean code and secure engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Arsenal
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MS Access](https://img.shields.io/badge/Microsoft%20Access-BA2121?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+---
+
+### 📂 Featured Repositories
+*   **[GTC-Web-Labs](https://github.com/khalilbasil35-netizen/GTC-Web-Labs)**: Mastering web foundations and responsive layouts.
+*   **[CSharp-Projects](https://github.com/khalilbasil35-netizen/CSharp-Projects)**: Advanced logic and system programming.
+*   **[Academic-Portfolio](https://github.com/khalilbasil35-netizen/Academic-Portfolio)**: Professional reports, accounting concepts, and database management.
+
+---
+
+### 📊 GitHub Stats (The Cool Part)
+![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilbasil35-netizen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbasil35-netizen&layout=compact&theme=radical)
+
+---
+*“Engineering is not just about writing code; it's about building fortresses.”*
