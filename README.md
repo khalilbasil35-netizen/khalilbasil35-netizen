@@ -16,9 +16,9 @@ I am an engineering student at **UCAS & GTC**, rebuilding my technical foundatio
 ---
 
 ### 📂 Featured Repositories
-*   **[GTC-Web-Labs](https://github.com/khalilbasil35-netizen/GTC-Web-Labs)**: Mastering web foundations and responsive layouts.
-*   **[CSharp-Projects](https://github.com/khalilbasil35-netizen/CSharp-Projects)**: Advanced logic and system programming.
-*   **[Academic-Portfolio](https://github.com/khalilbasil35-netizen/Academic-Portfolio)**: Professional reports, accounting concepts, and database management.
+*   **[GTC-Web-Labs](https://github.com/khalilbasil35-netizen/Frontend-Refresher-Labs)**: Mastering web foundations and responsive layouts.
+*   **[CSharp-Projects](https://github.com/khalilbasil35-netizen/Programming-Logic-Year1)**: Advanced logic and system programming.
+*   **[Academic-Portfolio](https://github.com/khalilbasil35-netizen/Academic-Projects)**: Professional reports, accounting concepts, and database management.
 
 ---
 
